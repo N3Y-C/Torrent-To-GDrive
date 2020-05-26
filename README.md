@@ -32,4 +32,4 @@
 </br>   
   GoIndex Generator: https://github.com/maple3142/GDIndex/
   </br>
-  https://gdindex-code-builder.glitch.me/
+  Direct Link Index -->> https://gdindex-code-builder.glitch.me/
