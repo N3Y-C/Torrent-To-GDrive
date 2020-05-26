@@ -30,4 +30,5 @@
    Generate String Session: http://gensession.n3y.repl.run/
 </br>
 </br>   
-  GoIndex Generator: https://gdindex-code-builder.glitch.me/
+  GoIndex Generator: https://github.com/maple3142/GDIndex/
+  https://gdindex-code-builder.glitch.me/
