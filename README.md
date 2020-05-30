@@ -24,14 +24,10 @@
 </br>
    SECRET_JSON : http://gdriveauth.n3y.repl.run/
 </br>
-   SESSION_STRING: https://gen-session.cw4rr10r.repl.run/
+   SESSION_STRING: http://gensession.n3y.repl.run/
 </br>
 </br>
 </br>
-   Generate Drive Token: http://gdriveauth.n3y.repl.run/
-</br>
-</br>
-   Generate String Session: http://gensession.n3y.repl.run/
 </br>
 </br>   
   GoIndex Generator: https://github.com/maple3142/GDIndex/
