@@ -22,7 +22,7 @@
 </br>
    OAuth API credential: https://console.cloud.google.com
 </br>
-   SECRET_JSON : https://gdrive-auth.cw4rr10r.repl.run/
+   SECRET_JSON : http://gdriveauth.n3y.repl.run/
 </br>
    SESSION_STRING: https://gen-session.cw4rr10r.repl.run/
 </br>
