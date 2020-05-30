@@ -30,6 +30,6 @@
 </br>
 </br>
 </br>   
-▪︎ GoIndex Generator: https://github.com/maple3142/GDIndex/
-  </br>
-  Direct Link Index -->> https://gdindex-code-builder.glitch.me/
+• GoIndex Generator: https://github.com/maple3142/GDIndex/
+</br>
+• Direct Link Index -->> https://gdindex-code-builder.glitch.me/
