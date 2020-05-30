@@ -14,7 +14,7 @@
 </br>
 - BOT_TOKEN: @BotFather
 </br>
-   Google Drive: https://www.google.com/drive/
+* Google Drive: https://www.google.com/drive/
 </br>
    INDEX_URL: https://github.com/maple3142/GDIndex/
 </br>
