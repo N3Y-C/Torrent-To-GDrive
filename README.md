@@ -16,20 +16,20 @@
 </br>
 • Google Drive: https://www.google.com/drive/
 </br>
-   INDEX_URL: https://github.com/maple3142/GDIndex/
+• INDEX_URL: https://github.com/maple3142/GDIndex/
 </br>
-   Cloud Flare : cloudflare.com
+• Cloud Flare : cloudflare.com
 </br>
-   OAuth API credential: https://console.cloud.google.com
+• OAuth API credential: https://console.cloud.google.com
 </br>
-   SECRET_JSON : http://gdriveauth.n3y.repl.run/
+• SECRET_JSON : http://gdriveauth.n3y.repl.run/
 </br>
-   SESSION_STRING: http://gensession.n3y.repl.run/
+• SESSION_STRING: http://gensession.n3y.repl.run/
 </br>
 </br>
 </br>
 </br>
 </br>   
-  #GoIndex Generator: https://github.com/maple3142/GDIndex/
+▪︎ GoIndex Generator: https://github.com/maple3142/GDIndex/
   </br>
   Direct Link Index -->> https://gdindex-code-builder.glitch.me/
