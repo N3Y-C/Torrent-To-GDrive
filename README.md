@@ -6,9 +6,9 @@
 </br>
 <H2>STEPS:</H2>
 </br>
-   API_HASH: https://my.telegram.org
+ -  API_HASH: https://my.telegram.org
 </br>
-   API_ID: https://my.telegram.org
+  - API_ID: https://my.telegram.org
 </br>
    AUTH_CHATS: @MissRose_bot
 </br>
