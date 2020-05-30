@@ -12,7 +12,7 @@
 </br>
 - AUTH_CHATS: @MissRose_bot
 </br>
-   BOT_TOKEN: @BotFather
+- BOT_TOKEN: @BotFather
 </br>
    Google Drive: https://www.google.com/drive/
 </br>
