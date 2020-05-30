@@ -17,7 +17,7 @@
 </br>
 • INDEX_URL: https://github.com/maple3142/GDIndex/
 </br>
-• Cloud Flare : cloudflare.com
+• Cloud Flare : https://www.cloudflare.com
 </br>
 • OAuth API credential: https://console.cloud.google.com
 </br>
