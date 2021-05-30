@@ -23,8 +23,11 @@
 </br>
 • SECRET_JSON : http://gdriveauth.n3y.repl.run/
 </br>
+    https://replit.com/@N3Y/Gdriveauth#main.py
+</br>
 • SESSION_STRING: http://gensession.n3y.repl.run/
 </br>
+    https://replit.com/@N3Y/Gensession#main.py
 </br>
 </br>
 </br>
